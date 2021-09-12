@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saerom "Celia" Jung @csjung-tayo
-- ✈️ Stayed in the U.S. for +6 years, but currently resides in Seoul, South Korea
+- ✈️ Stayed in the U.S. for +6 years  --> currently resides in Seoul, South Korea
 - 👀 I’m interested in Front-end programming, Marketing, Data Analysis, Data Visualization, and Modeling!
 - 💫 I just finished a data analysis project "Pesonalized Hotel Recommendation System" with my collegues at the AI hub Yangjae
 - 🌱 I’m trying to learn SQL and Vue.js 
